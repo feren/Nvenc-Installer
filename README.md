@@ -5,6 +5,7 @@ Note: This Script will add Linux Mint Repo Source Repositories to normal Ubuntu 
 
 <h2>Dependencies:</h2>
 The following packages must be installed for a successful run of this script:
+
 - libfdk-aac-dev
 - ffmpeg
 
